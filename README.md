@@ -1,6 +1,8 @@
 ### Hi there , I'm lyy 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyy)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lyy&show_icons=true" />
+</a>
 
 #### Languages
 
